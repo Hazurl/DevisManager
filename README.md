@@ -3,38 +3,39 @@
 Creation d'un gestinnaire de devis sur Excel.
 
 Disponible :
-
-  Modification de données principale au projet (Coefficient, Taux horaires, ...)
+<ul>
+  <li>Modification de données principale au projet (Coefficient, Taux horaires, ...)</li>
   
-  Rubrique "générale"
+  <li>Rubrique "générale"</li>
   
-  Création de sous-projet contenant :
+  <li>Création de sous-projet contenant :</li>
   
-    Quantité du sous projet, principale coefficient pour les calculs
+    <ul><li>Quantité du sous projet, principale coefficient pour les calculs</li>
     
-    Produits, qui contienent
+    <li>Produits, qui contienent</li>
     
-      Main d'oeuvre
+     <ul><li> Main d'oeuvre</li>
       
-      Prix d'achat
+      <li>Prix d'achat</li>
       
-      Quantité
+      <li>Quantité</li>
       
-      Coefficient (soit celui de base, soit un nouveau)
+      <li>Coefficient (soit celui de base, soit un nouveau)</li></ul>
       
-    Produits de sous-traitance
+    <li>Produits de sous-traitance</li>
     
-      Main d'oeuvre
+      <ul><li>Main d'oeuvre</li>
       
-      Prix d'achat
+      <li>Prix d'achat</li>
       
-      Quantité
+      <li>Quantité</li>
       
-      Coefficient (soit celui de base, soit un nouveau)
+      <li>Coefficient (soit celui de base, soit un nouveau)</li></ul>
       
-    Matériels
+    <li>Matériels</li>
     
-    Sous-Totaux
+    <li>Sous-Totaux</li>
     
-  Totaux
+    <li>Totaux</li>
+</ul>
   
