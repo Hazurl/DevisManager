@@ -34,7 +34,7 @@ Disponible :
       
     <li>Matériels</li>
     
-    <li>Sous-Totaux</li>
+    <li>Sous-Totaux</li></ul>
     
     <li>Totaux</li>
 </ul>
