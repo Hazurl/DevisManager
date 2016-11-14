@@ -16,6 +16,7 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 
 * **Matériel :**
 	* Nom
+	* Quantité
   	* Prix
 
 * **Groupe de Produits :**
@@ -23,6 +24,7 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 	* Nom
   	* Quantité
   	* Produits []
+	* Matériel (note : Attribué arbitrairement, afficher un message d'erreur si la somme n'est pas respecté avec la valeur affiché dans le groupe matériel du Devis
       
 * **Produit :**
 	* Sous traitance ou non
