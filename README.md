@@ -19,6 +19,7 @@ Creation d'un gestinnaire de devis sur Excel.
   	* Prix
 
 * **Groupe de Produits :**
+	* Sous traitance ou non
 	* Nom
   	* Quantité
   	* Produits []
@@ -32,10 +33,10 @@ Creation d'un gestinnaire de devis sur Excel.
 ## Définition
 * **Main d'oeuvre :**
 	* *Nombre*
-  	* **OU**  "a * référence / b"		Avec a et b *Nombre*
+  	* **OU**  "a * b / référence"		- avec a et b *Nombre*
   
 * **Référence :**
-	* 
+	* Quantité d'un groupe de produits
 
 * **Coefficient de base :**
 	* *Nombre*
