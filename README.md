@@ -64,3 +64,4 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 	* *Date*
 * **Nom :**
 	* *String*
+[![Downloads](https://img.shields.io/npm/dt/percent-value.svg)](https://www.npmjs.com/package/percent-value) 
