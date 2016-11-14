@@ -2,40 +2,61 @@
 
 Creation d'un gestinnaire de devis sur Excel.
 
-Disponible :
-<ul>
-  <li>Modification de données principale au projet (Coefficient, Taux horaires, ...)</li>
+##Structure général
   
-  <li>Rubrique "générale"</li>
+* **Classeur :**
+	* Devis []
+      
+* **Devis :**
+	* Coefficient de base
+  	* Cout minute
+ 	* Date creation métré
+  	* Matériels []
+  	* Groupes de Produits []
+
+* **Matériel :**
+	* Nom
+  	* Prix
+
+* **Groupe de Produits :**
+	* Nom
+  	* Quantité
+  	* Produits []
+      
+* **Produit :**
+	* Nom
+	* Main d'oeuvre
+  	* Prix d'achat
+  	* Coefficient
+      
+## Définition
+* **Main d'oeuvre :**
+	* *Nombre*
+  	* **OU**  "a * référence / b"		Avec a et b *Nombre*
   
-  <li>Création de sous-projet contenant :</li>
+* **Référence :**
+	* 
+
+* **Coefficient de base :**
+	* *Nombre*
+
+* **Coefficient :**
+	* Coefficient de base
+  	* **OU**  *Nombre*
   
-    <ul><li>Quantité du sous projet, principale coefficient pour les calculs</li>
-    
-    <li>Produits, qui contienent</li>
-    
-     <ul><li> Main d'oeuvre</li>
+* **Prix d'achat :**
+	* *Nombre*
       
-      <li>Prix d'achat</li>
+* **Quantité :**
+	* *Nombre*
       
-      <li>Quantité</li>
+* **Prix :**
+	* *Nombre*
+
+* **Cout minute :**
+	* *Nombre*
       
-      <li>Coefficient (soit celui de base, soit un nouveau)</li></ul>
-      
-    <li>Produits de sous-traitance</li>
-    
-      <ul><li>Main d'oeuvre</li>
-      
-      <li>Prix d'achat</li>
-      
-      <li>Quantité</li>
-      
-      <li>Coefficient (soit celui de base, soit un nouveau)</li></ul>
-      
-    <li>Matériels</li>
-    
-    <li>Sous-Totaux</li></ul>
-    
-    <li>Totaux</li>
-</ul>
-  
+* **Date création métré :**
+	* *Date*
+* **Nom :**
+	* *String*
