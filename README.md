@@ -1,6 +1,6 @@
 # DevisManager
 
-Creation d'un gestinnaire de devis sur Excel.
+Creation d'un gestinnaire de devis sur Excel en VBA.
 
 ##Structure général
   
@@ -19,12 +19,13 @@ Creation d'un gestinnaire de devis sur Excel.
   	* Prix
 
 * **Groupe de Produits :**
-	* Sous traitance ou non
+	* Commentaires
 	* Nom
   	* Quantité
   	* Produits []
       
 * **Produit :**
+	* Sous traitance ou non
 	* Nom
 	* Main d'oeuvre
   	* Prix d'achat
