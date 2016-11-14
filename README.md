@@ -2,7 +2,7 @@
 
 Creation d'un gestinnaire de devis sur Excel.
 
-**Structure**
+##Structure général
   
 * **Classeur :**
 	* Devis []
@@ -29,6 +29,7 @@ Creation d'un gestinnaire de devis sur Excel.
   * Prix d'achat
   * Coefficient
       
+## Définition
 * **Main d'oeuvre :**
 	* Nombre
   * OU  Calcul -> a * référence / b		Avec (a, b) Nombre
