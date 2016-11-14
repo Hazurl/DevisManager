@@ -32,14 +32,17 @@ Creation d'un gestinnaire de devis sur Excel.
 ## Définition
 * **Main d'oeuvre :**
 	* *Nombre*
-  	* OU  Calcul : a * référence / b		Avec (a, b) *Nombre*
+  	* **OU**  "a * référence / b"		Avec a et b *Nombre*
   
+* **Référence :**
+	* 
+
 * **Coefficient de base :**
 	* *Nombre*
 
 * **Coefficient :**
 	* Coefficient de base
-  	* OU  *Nombre*
+  	* **OU**  *Nombre*
   
 * **Prix d'achat :**
 	* *Nombre*
