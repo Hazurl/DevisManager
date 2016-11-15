@@ -80,4 +80,4 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 - [ ] Initialization on Start
 - [ ] Print
 - [ ] Import from ancient file
-- [ ] Display the right menu on cell click
+- [ ] Display the corresponding menu when clicking on a cell
