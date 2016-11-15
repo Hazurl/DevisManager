@@ -70,6 +70,8 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 
 - [x] structuring Class
 - [ ] Attributs Property
+- [ ] Refresh the display after a change
+- [ ] Recalculate data when a data reference change
 - [ ] Creation/Modification/Deletion Products
 - [ ] Creation/Modification/Deletion Product Groups
 - [ ] Creation/Modification/Deletion General Materials
