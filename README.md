@@ -65,3 +65,19 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 	* *Date*
 * **Nom :**
 	* *String*
+
+## Avancement
+
+- [x] structuring Class
+- [ ] Attributs Property
+- [ ] Creation/Modification/Deletion Products
+- [ ] Creation/Modification/Deletion Product Groups
+- [ ] Creation/Modification/Deletion General Materials
+- [x] Modification General Attributs
+- [ ] Menu
+- [ ] Automatic Calculation on value change
+- [ ] Create Data file on Save
+- [ ] Initialization on Start
+- [ ] Print
+- [ ] Import from ancient file
+- [ ] Display the right menu on cell click
