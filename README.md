@@ -32,6 +32,7 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 	* Main d'oeuvre
   	* Prix d'achat
   	* Coefficient
+	* Quantité
       
 ## Définition
 * **Main d'oeuvre :**
