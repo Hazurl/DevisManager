@@ -68,18 +68,18 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 
 ## Avancement
 
-- [x] **100%** structuring Class
-- [ ] **  0%** Attributs Property
-- [ ] Refresh the display after a change
-- [ ] Recalculate data when a data reference change
-- [ ] Creation/Modification/Deletion Products
-- [ ] Creation/Modification/Deletion Product Groups
-- [ ] Creation/Modification/Deletion General Materials
-- [x] Modification General Attributs
-- [ ] Menu
-- [ ] Automatic Calculation on value change
-- [ ] Create Data file on Save
-- [ ] Initialization on Start
-- [ ] Print
-- [ ] Import from ancient file
-- [ ] Display the corresponding menu when clicking on a cell
+- [x] ***100%*** structuring Class
+- [ ] ***__0%*** Attributs Property
+- [ ] ***__0%*** Refresh the display after a change
+- [ ] ***__0%*** Recalculate data when a data reference change
+- [ ] ***__0%*** Creation/Modification/Deletion Products
+- [ ] ***__0%*** Creation/Modification/Deletion Product Groups
+- [ ] ***__0%*** Creation/Modification/Deletion General Materials
+- [x] ***__0%*** Modification General Attributs
+- [ ] ***__0%*** Menu
+- [ ] ***__0%*** Automatic Calculation on value change
+- [ ] ***__0%*** Create Data file on Save
+- [ ] ***__0%*** Initialization on Start
+- [ ] ***__0%*** Print
+- [ ] ***__0%*** Import from ancient file
+- [ ] ***__0%*** Display the corresponding menu when clicking on a cell
