@@ -74,7 +74,7 @@ Creation d'un gestinnaire de devis sur Excel en VBA.
 - [ ] ***__0%*** Recalculate data when a data reference change
 - [x] ***100%*** Creation/Modification/Deletion Products
 - [x] ***100%*** Creation/Modification/Deletion Product Groups
-- [ ] ***_15%*** Creation/Modification/Deletion General Materials
+- [x] ***100%*** Creation/Modification/Deletion General Materials
 - [x] ***100%*** Modification General Attributs
 - [ ] ***_20%*** Menu
 - [ ] ***__0%*** Automatic Calculation on value change
